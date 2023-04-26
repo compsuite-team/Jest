@@ -310,7 +310,7 @@
             <dependency>
                 <groupId>org.codelibs.elasticsearch.module</groupId>
                 <artifactId>lang-painless</artifactId>
-                <version>${elasticsearch.version}</version>
+                <version>7.5.1</version>
                 <scope>test</scope>
             </dependency>
 
