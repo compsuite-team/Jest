@@ -317,7 +317,7 @@
             <dependency>
                 <groupId>org.elasticsearch.plugin</groupId>
                 <artifactId>percolator-client</artifactId>
-                <version>${elasticsearch.version}</version>
+                <version>7.5.1</version>
                 <scope>test</scope>
             </dependency>
             <dependency>
